@@ -1,4 +1,4 @@
-FROM debian:chk
+FROM debian:jessie
 MAINTAINER Koushik CH<contact (at) chkoushik (dot) com>
 
 ENV DEBIAN_FRONTEND noninteractive
